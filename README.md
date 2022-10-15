@@ -1,7 +1,7 @@
 Hello World! Eu sou o Higor Beleza 👋
 
 - 🔭 Hoje a procura de trabalho na programação
-- 🌱 Estudando PHP e NODEjs
+- 🌱 Estudando NODEjs
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
