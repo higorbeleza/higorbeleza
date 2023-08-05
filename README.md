@@ -1,11 +1,16 @@
 ## Hello world!
 
-Olá! Meu nome é Higor e sou um programador júnior apaixonado por tecnologia e desenvolvimento de software. Desde que comecei a explorar o mundo da programação, me encantei com a capacidade de criar soluções inovadoras e funcionais para os desafios do dia a dia.
+Higor Beleza do Nascimento <br/>
+Amazonas, Brazil <br/>
+higorbelea297@gmail.com <br/>
+https://www.linkedin.com/in/higor-beleza/
 
-Minhas principais áreas de interesse incluem desenvolvimento web, onde estou constantemente aprendendo novas tecnologias, como HTML, CSS e JavaScript. Também tenho experiência em linguagens de programação como Nodejs e PHP. Através de projetos pessoais e estudos autodidatas, busco expandir meu conhecimento em frameworks populares como React e Nestjs.
+Objective:
+-----------
+Passionate and motivated junior developer with a strong foundation in programming principles and a desire to contribute to innovative projects. Eager to learn and collaborate in a dynamic software development team.
 
-Meu objetivo como programador júnior é contribuir para o crescimento de uma equipe de desenvolvimento talentosa e aprender com os profissionais mais experientes ao meu redor. Acredito que a aprendizagem contínua é fundamental para o aprimoramento constante das habilidades técnicas e resolução de problemas.
-
+Skills:
+--------
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -16,9 +21,18 @@ Meu objetivo como programador júnior é contribuir para o crescimento de uma eq
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
- 
-<div>
-  <a href="https://www.linkedin.com/in/higor-beleza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+Projects:
+---------
+1. <a href="https://github.com/higorbeleza/project-bookstore">BookStore</a>
+   - This API was made with Nodejs, Express and Mysql
+   - This API allows users to retrive books
+
+2. <a href="https://github.com/higorbeleza/project-olx-backend">OLX</a>
+   - This project was made with NodejS, Express and mongoDb
+   - This API is an olx back end simulation 
+
+Languages:
+----------
+Portuguese (Native) <br/>
+English (Advanced)
